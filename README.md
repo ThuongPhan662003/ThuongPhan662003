@@ -4,7 +4,7 @@
 
 ### Badges
 
-<a href="https://github.com/ThuongPhan662003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuongPhan662003&hide=less&layout=compact&theme=codeSTACKr&card_width=450" alt="nickLan" /></a>
+<a href="https://github.com/ThuongPhan662003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuongPhan662003&layout=compact&theme=codeSTACKr&card_width=450" alt="nickLan" /></a>
 
 ## Github Visitors
 
