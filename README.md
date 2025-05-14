@@ -75,5 +75,5 @@ To grow as a **Data Scientist** in a dynamic environment where I can apply my sk
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuongPhan662003&show_icons=true&theme=radical" alt="Thuong's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuongPhan662003&layout=compact&theme=radical" />
 </p>
